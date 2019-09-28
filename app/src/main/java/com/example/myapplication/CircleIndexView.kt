@@ -310,9 +310,6 @@ class CircleView(context: Context, attrs: AttributeSet?) : View(context, attrs) 
         val x = d0 / 2
         val y = dh * x / ds
 
-
-        // Log.d(TAG, "x= $x  y=$y")
-
         return PointF(pT.x + x, pT.y - y)
 
     }

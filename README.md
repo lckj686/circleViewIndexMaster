@@ -1,6 +1,6 @@
 ### 一、概述
 项目中UI 给了个图是两个圆圈的上下边沿指示器：效果如下
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190928134044331.gif)
+![在这里插入图片描述](https://github.com/lckj686/circleViewIndexMaster/blob/master/3.gif)
 实际在项目中废弃了，并没有使用到，有点可惜，记录下。
 
 ### 二、原理

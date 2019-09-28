@@ -224,7 +224,7 @@ class CircleView(context: Context, attrs: AttributeSet?) : View(context, attrs) 
         val path2 = Path()
 
 
-        //p0末点在p02起点前，正常绘制
+        //绘制交叉点
         if (p0List[9].x > p02List[1].x) {
             //第三交叉点
             val p3 = calculate3ponit(p0List[5], p02List[5], p0List[5], p0List[1].y)

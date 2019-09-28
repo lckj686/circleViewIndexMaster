@@ -15,6 +15,9 @@
 - 让交叉点和其余点用平滑的线进行连接
 
 ### 三、标注
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190928141625386.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xja2o2ODY=,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/lckj686/circleViewIndexMaster/blob/master/1.jpg)  
+  
+  
+![在这里插入图片描述](https://github.com/lckj686/circleViewIndexMaster/blob/master/2.jpg)
 ### 四、付
 [github 地址]：[https://github.com/lckj686/circleViewIndexMaster](https://github.com/lckj686/circleViewIndexMaster)
